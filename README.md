@@ -1,7 +1,7 @@
 # Data_Science_CapstoneProject
 In this project, I will build a prototype to look at a company's sales and the projected sales aimed to achieve for the different financial years.
 
-I importted the appropriate libraries first before embarking on the project.
+I imported the appropriate libraries first before embarking on the project.
 I have used numpy, pandas, and matplotlib. Numpy is a base N-dimensional array package, pandas are used for data analysis and matplotlib for comprehensive plotting in this project. This is important as it will help with data manipulation and visualisation.
 
 I have created the financial statements, whereby
